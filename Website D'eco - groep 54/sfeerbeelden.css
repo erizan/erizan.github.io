@@ -1,0 +1,151 @@
+body {
+background-image: url("bg.png");
+background-size: 100%;
+font-family: 'Helvetica';
+}
+
+.kader {
+width: auto;
+height: 120px;
+margin: auto;
+margin-top: -20px;
+background-color: white;
+opacity: 0.8;
+font-family: 'Helvetica', cursive;
+background-image: url("logo.jpg");
+background-position: center;
+background-repeat: no-repeat;
+
+
+}
+
+a {
+text-decoration: none;
+color: black;
+}
+
+a:hover {
+text-decoration:none;
+color: darkred;
+}
+
+li {
+float: left;
+text-align: center;
+font-family: arial;
+font-size:1.8em;
+color: white;
+padding: 20px;
+font-family: 'Amatic SC', bold;
+
+}
+
+h2 {
+font-size: 40px;
+color: darkgrey;
+font-family: 'Helvetica', cursive;
+padding-top: 5px;
+padding-left: 5px;
+padding-bottom: 30px;
+
+
+}
+
+h3 {
+font-size: 14px;
+margin-top: 40px;
+}
+
+.kader2 {
+width: 1400px;
+height: 670px;
+margin: 40px auto;
+margin-top: 90px;
+padding: 5px;
+background-color: white;
+opacity: 0.9;
+color: white;
+font-size: 16px;
+text-align: center;
+
+
+}
+.kader3 {
+width: 1400px;
+height: 30px;
+margin-left: -5px;
+margin-top: 720px;
+padding: 5px;
+background-color: white;
+color: black;
+font-size: 10px;
+text-align: center;
+opacity: 0.8;
+font-family: 'Helvetica', cursive;
+}
+.fotos {
+color: white;
+}
+
+.kader4 {
+width: 1000px;
+height: 600px;
+margin-left: 20px;
+margin-top: 30px;;
+padding: 5px;
+background-color: lightgrey;
+opacity: 0.9;
+color: grey;
+font-size: 16px;
+text-align: center;
+overflow: scroll;
+}
+
+
+.kader5 {
+width: 300px;
+height: 600px;
+margin-left: 1050px ;
+margin-top: -610px;
+padding: 5px;
+background-color: white;
+opacity: 0.9;
+color: black;
+font-size: 16px;
+text-align: center;
+background-image: url("overonsbg.png");
+background-repeat: no-repeat;
+}
+
+.kader6 {
+width: 400px;
+height: 50px;
+margin-top: -720px;
+margin-left: auto;
+margin-right: auto;
+font-family: 'Amatic SC', ;
+background-image: url("linkbg.png");
+background-position: center;
+background-repeat: no-repeat;
+color: black;
+
+.fotos {
+color: white;
+}
+
+
+
+
+
+img {
+
+padding-top: 30px;
+margin: 10px auto;
+width: 600px;
+border-radius: 50px;
+display: none;
+
+}
+.selected {
+	display: inline;
+}
